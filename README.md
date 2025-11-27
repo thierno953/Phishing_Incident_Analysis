@@ -138,3 +138,16 @@ This investigation provided hands-on experience with email analysis and threat d
 - Block malicious domains + IPs
 - Train users to detect crypto phishing
 - Enable advanced phishing protection policies
+
+---
+
+### Useful Resources
+
+- [AbuseIPDB](https://www.abuseipdb.com/)
+- [Domaintools](https://whois.domaintools.com/)
+- [VirusTotal](https://www.virustotal.com/gui/home/search)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [Phishtool](https://app.phishtool.com/)
+- [IPinfo](https://ipinfo.io/)
+- [IPVOID](https://www.ipvoid.com/ip-blacklist-check/)
+- [Alienvault](https://otx.alienvault.com/)
