@@ -35,7 +35,7 @@ A phishing email impersonating MetaMask targeted a business inbox, warning of an
 Domain: 4333998cfe.nxcli.io
 ```
 
-- Link to shortened URL [t.co](http://t.co) leading to credential-stealing site
+- Link to shortened URL (`t.co`) leading to credential-stealing site
 
 ![Email Phishing](./assets/MetaMask_Impersonation_01.png)
 
@@ -61,7 +61,7 @@ Domain: 4333998cfe.nxcli.io
 
 - **Sender IP**: 173.249.144.23 (cloudhost-119112.us-west-1.nxcli.net)
 - **From domain**: 4333998cfe.nxcli.io
-- **Link redirect**: `t.co` shortener -> external phishing site
+- **Link redirect**: [t.co](hxxps://t.co/) shortener -> external phishing site
 
 ![Email Phishing](./assets/MetaMask_Impersonation_07.png)
 
