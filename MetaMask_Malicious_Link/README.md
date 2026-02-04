@@ -71,7 +71,7 @@ Domain: 4333998cfe.nxcli.io
 
 ---
 
-## WHY
+## WHY 
 
 - **Technical**:
   - Unicode obfuscation used to bypass email security filters
