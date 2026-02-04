@@ -1,4 +1,4 @@
-# MetaMask Malicious Link
+# Email Phishing Incident Analysis - MetaMask Impersonation
 
 **Severity:** HIGH
 
