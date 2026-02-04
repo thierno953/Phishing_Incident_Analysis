@@ -61,7 +61,7 @@ Domain: 4333998cfe.nxcli.io
 
 - **Sender IP**: 173.249.144.23 (cloudhost-119112.us-west-1.nxcli.net)
 - **From domain**: 4333998cfe.nxcli.io
-- **Link redirect**: [t.co](http://t.co) shortener -> external phishing site
+- **Link redirect**: `t.co` shortener -> external phishing site
 
 ![Email Phishing](./assets/MetaMask_Impersonation_07.png)
 
@@ -98,7 +98,7 @@ Domain: 4333998cfe.nxcli.io
 - **From email**: `82p8n1e3@cfx.io`
 - **From domain**: `4333998cfe.nxcli.io`
 - **Sender IP**: `173.249.144.23`
-- **Link**: `https://t.co/hdSGlufCET?id=7833882918994061387-6045`
+- **Link**: `hxxps://t[.]co/hdSGlufCET?id=7833882918994061387-6045`
 - **Subject**: MetаMаsk Ѕесurіtу Аlеrt - Unrecognized Lоgіn Attempt
 - **Spam traits**: Unicode obfuscation, HTML only, Pyzor listed
 
