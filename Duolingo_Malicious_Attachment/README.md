@@ -42,6 +42,9 @@ Domain: duolingo-team[.]com
 
 ![Duolingo Impersonation](./assets/Duolingo_Impersonation_02.png)
 
+- **Payload URL:** `hxxps://cdn[.]discordapp[.]com/attachments/1432487189429616654/1433451752316997642/Duolingo_-_YouTube_Partnership[.]zip`
+- **Archive Password:** `Duolingo`
+
 ---
 
 ## WHEN
