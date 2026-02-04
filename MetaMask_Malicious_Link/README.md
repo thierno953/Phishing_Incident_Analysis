@@ -38,16 +38,22 @@ Domain: 4333998cfe.nxcli.io
 - Link to shortened URL [t.co](http://t.co) leading to credential-stealing site
 
 ![Email Phishing](./assets/MetaMask_Impersonation_01.png)
+
 ![Email Phishing](./assets/MetaMask_Impersonation_02.png)
+
 ![Email Phishing](./assets/MetaMask_Impersonation_03.png)
+
 ![Email Phishing](./assets/MetaMask_Impersonation_04.png)
+
 ![Email Phishing](./assets/MetaMask_Impersonation_05.png)
 
 ---
 
 ## WHEN
 
-- **Email received**: ![Email Phishing](./assets/MetaMask_Impersonation_06.png)
+- **Email received**: 5 June 2025, 02:23:59 UTC
+
+![Email Phishing](./assets/MetaMask_Impersonation_06.png)
 
 ---
 
@@ -58,7 +64,9 @@ Domain: 4333998cfe.nxcli.io
 - **Link redirect**: [t.co](http://t.co) shortener -> external phishing site
 
 ![Email Phishing](./assets/MetaMask_Impersonation_07.png)
+
 ![Email Phishing](./assets/MetaMask_Impersonation_08.png)
+
 ![Email Phishing](./assets/MetaMask_Impersonation_09.png)
 
 ---
