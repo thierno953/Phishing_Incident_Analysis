@@ -38,8 +38,9 @@ Domain: duolingo-team[.]com
 - User downloaded, extracted, and executed the file
 - Automated analysis and endpoint detection confirmed malware execution
 
-![Duolingo Impersonation](/assets/Duolingo_Impersonation_01.png)
-![Duolingo Impersonation](/assets/Duolingo_Impersonation_02.png)
+![Duolingo Impersonation](./assets/Duolingo_Impersonation_01.png)
+
+![Duolingo Impersonation](./assets/Duolingo_Impersonation_02.png)
 
 ---
 
